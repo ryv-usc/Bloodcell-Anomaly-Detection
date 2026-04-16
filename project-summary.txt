@@ -1,0 +1,4 @@
+Dataset: Blood Cell Anomaly Detection
+Link: https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025
+
+Goal: Find interesting correlations and patterns, possible detect specific qualities about a cell from anomaly type
