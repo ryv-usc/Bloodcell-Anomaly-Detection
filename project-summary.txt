@@ -2,3 +2,7 @@ Dataset: Blood Cell Anomaly Detection
 Link: https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025
 
 Goal: Find interesting correlations and patterns, possible detect specific qualities about a cell from anomaly type
+
+Problems and solutions:
+- Class counts are imbalanced: introduce class weights to make lower count classes effect gradients more
+- Classes train/validation/test splits being imbalanced or no training samples?: straified splitting in order to keep rough same class porportions in each split
