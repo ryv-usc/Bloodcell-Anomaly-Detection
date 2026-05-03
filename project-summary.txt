@@ -6,3 +6,4 @@ Goal: Find interesting correlations and patterns, possible detect specific quali
 Problems and solutions:
 - Class counts are imbalanced: introduce class weights to make lower count classes effect gradients more
 - Classes train/validation/test splits being imbalanced or no training samples?: straified splitting in order to keep rough same class porportions in each split
+- All data was being approximated to a specific class, feature scaling needed to be added and significantly reduce dropout
