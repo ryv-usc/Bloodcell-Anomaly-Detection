@@ -1,0 +1,39 @@
+Epoch 100/100, Train Loss: 0.0126, Val F1 Score: 0.9647, Val Recall: 0.9649, Val Accuracy: 0.9649
+
+Epoch 100/100, Train Loss: 0.0002, Val F1 Score: 0.9621, Val Recall: 0.9626, Val Accuracy: 0.9626
+
+Epoch 100/100, Train Loss: 0.0168, Val F1 Score: 0.9694, Val Recall: 0.9694, Val Accuracy: 0.9694
+
+------------------------------------------
+
+Logistic Regression Results:
+Accuracy: 0.9751
+F1 Score: 0.9746
+Recall: 0.9751
+
+Logistic Regression Results:
+Accuracy: 0.9728
+F1 Score: 0.9723
+Recall: 0.9728
+
+Logistic Regression Results:
+Accuracy: 0.9728
+F1 Score: 0.9721
+Recall: 0.9728
+
+---------------------------------------------
+
+Random Forest Results:
+Accuracy: 0.9762
+F1 Score: 0.9747
+Recall: 0.9762
+
+Random Forest Results:
+Accuracy: 0.9762
+F1 Score: 0.9753
+Recall: 0.9762
+
+Random Forest Results:
+Accuracy: 0.9773
+F1 Score: 0.9764
+Recall: 0.9773
